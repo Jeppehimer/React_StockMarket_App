@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React_StockMarket_App/static/css/main.b3d19532.chunk.css",
-    "main.js": "/React_StockMarket_App/static/js/main.57049a3d.chunk.js",
-    "main.js.map": "/React_StockMarket_App/static/js/main.57049a3d.chunk.js.map",
-    "runtime-main.js": "/React_StockMarket_App/static/js/runtime-main.948ec1be.js",
-    "runtime-main.js.map": "/React_StockMarket_App/static/js/runtime-main.948ec1be.js.map",
-    "static/js/2.aba66d45.chunk.js": "/React_StockMarket_App/static/js/2.aba66d45.chunk.js",
-    "static/js/2.aba66d45.chunk.js.map": "/React_StockMarket_App/static/js/2.aba66d45.chunk.js.map",
-    "static/js/3.b5f1d72f.chunk.js": "/React_StockMarket_App/static/js/3.b5f1d72f.chunk.js",
-    "static/js/3.b5f1d72f.chunk.js.map": "/React_StockMarket_App/static/js/3.b5f1d72f.chunk.js.map",
+    "main.css": "/React_StockMarket_App/static/css/main.09a0d1fb.chunk.css",
+    "main.js": "/React_StockMarket_App/static/js/main.71b8254e.chunk.js",
+    "main.js.map": "/React_StockMarket_App/static/js/main.71b8254e.chunk.js.map",
+    "runtime-main.js": "/React_StockMarket_App/static/js/runtime-main.1fb6b1ef.js",
+    "runtime-main.js.map": "/React_StockMarket_App/static/js/runtime-main.1fb6b1ef.js.map",
+    "static/js/2.2cd3e322.chunk.js": "/React_StockMarket_App/static/js/2.2cd3e322.chunk.js",
+    "static/js/2.2cd3e322.chunk.js.map": "/React_StockMarket_App/static/js/2.2cd3e322.chunk.js.map",
+    "static/js/3.6dcfee54.chunk.js": "/React_StockMarket_App/static/js/3.6dcfee54.chunk.js",
+    "static/js/3.6dcfee54.chunk.js.map": "/React_StockMarket_App/static/js/3.6dcfee54.chunk.js.map",
     "index.html": "/React_StockMarket_App/index.html",
-    "static/css/main.b3d19532.chunk.css.map": "/React_StockMarket_App/static/css/main.b3d19532.chunk.css.map",
-    "static/js/2.aba66d45.chunk.js.LICENSE.txt": "/React_StockMarket_App/static/js/2.aba66d45.chunk.js.LICENSE.txt"
+    "static/css/main.09a0d1fb.chunk.css.map": "/React_StockMarket_App/static/css/main.09a0d1fb.chunk.css.map",
+    "static/js/2.2cd3e322.chunk.js.LICENSE.txt": "/React_StockMarket_App/static/js/2.2cd3e322.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.948ec1be.js",
-    "static/js/2.aba66d45.chunk.js",
-    "static/css/main.b3d19532.chunk.css",
-    "static/js/main.57049a3d.chunk.js"
+    "static/js/runtime-main.1fb6b1ef.js",
+    "static/js/2.2cd3e322.chunk.js",
+    "static/css/main.09a0d1fb.chunk.css",
+    "static/js/main.71b8254e.chunk.js"
   ]
 }
